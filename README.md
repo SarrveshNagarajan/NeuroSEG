@@ -1,6 +1,5 @@
 # NeuroSEG - Brain Tumor Segmentation Tool
 
-![NeuroSEG Banner](https://i.imgur.com/placeholder.png)
 
 ## 🧠 [Try the live demo](https://neuroseg.streamlit.app/)
 
