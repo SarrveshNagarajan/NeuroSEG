@@ -37,10 +37,6 @@ NeuroSEG uses a 3D U-Net architecture trained on the BraTS (Brain Tumor Segmenta
 - Segmentation Model: 3D U-Net
 - Input Format: NIfTI (.nii, .nii.gz)
 
-## Research Background
-
-This tool implements state-of-the-art methodologies for brain tumor segmentation as described in recent literature. The 3D U-Net architecture has shown competitive performance in the BraTS challenges, with Dice scores exceeding 0.85 for whole tumor segmentation.
-
 ## Limitations
 
 - Current version is only trained on limited data due to resource constraints
