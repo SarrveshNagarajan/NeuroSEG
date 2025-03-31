@@ -318,7 +318,7 @@ def main():
     
     st.sidebar.markdown("### Instructions")
     st.sidebar.markdown("""
-    1. Upload a FLAIR NII file or use our sample data
+    1. Upload a FLAIR.nii file or use our sample data
     2. Wait for the segmentation to complete
     3. View the results and analyze the tumor segmentation
     """)
