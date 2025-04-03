@@ -30,7 +30,7 @@ No separate installation is required. The tool automatically handles dependency 
 Run directly from the command line:
 
 ```bash
-python brain_segmentation.py
+python anatomy_segmentation.py
 ```
 
 You will be prompted to enter the path to your T1-weighted MRI file.
