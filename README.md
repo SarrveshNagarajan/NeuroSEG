@@ -18,8 +18,8 @@ NeuroSEG is an interactive web application that performs automatic segmentation 
 
 NeuroSEG uses a 3D U-Net architecture trained on the BraTS (Brain Tumor Segmentation) dataset to automatically identify and segment tumor regions in FLAIR MRI sequences. The model distinguishes between:
 
-- Necrotic and non-enhancing tumor core
-- Peritumoral edema
+- Non-enhancing tumor
+- Edema
 - Enhancing tumor
 
 ## Usage Instructions
