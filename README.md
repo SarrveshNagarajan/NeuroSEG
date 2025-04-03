@@ -1,3 +1,5 @@
+(Note : Code for brain tumor and brain anatomy segmentation is present inside EMTENSOR folder)
+
 # NeuroSEG - Brain Tumor Segmentation Tool
 
 
